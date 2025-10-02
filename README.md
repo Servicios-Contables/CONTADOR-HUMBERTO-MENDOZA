@@ -1,0 +1,118 @@
+[index.html](https://github.com/user-attachments/files/22666589/index.html)
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SERVICIOS CONTABLES EMPRESARIALES MENDOZA SC</title>
+  <meta name="description" content="Servicios contables, asesoría fiscal y contabilidad profesional para empresas y negocios. Contacta a SERVICIOS CONTABLES EMPRESARIALES MENDOZA SC hoy.">
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background: #f2f4f8;
+      color: #333;
+      font-size: 24px;
+    }
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 40px 0;
+      text-align: center;
+    }
+    .container {
+      max-width: 900px;
+      margin: 50px auto;
+      background: white;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0 0 12px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 40px;
+      margin-bottom: 10px;
+    }
+    h2 {
+      color: #004080;
+      font-size: 30px;
+      margin-top: 35px;
+    }
+    ul {
+      line-height: 1.8;
+      font-size: 24px;
+      padding-left: 25px;
+    }
+    p {
+      font-size: 24px;
+    }
+    button {
+      color: white;
+      border: none;
+      padding: 16px 30px;
+      cursor: pointer;
+      font-size: 22px;
+      border-radius: 5px;
+      margin-top: 25px;
+      margin-right: 15px;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+    }
+    footer {
+      text-align: center;
+      font-size: 20px;
+      color: #777;
+      margin-top: 50px;
+      padding-bottom: 25px;
+    }
+    /* Botón WhatsApp */
+    .whatsapp-button {
+      background-color: #25D366;
+    }
+    .whatsapp-button:hover {
+      background-color: #1ebe57;
+    }
+    .whatsapp-icon {
+      width: 24px;
+      height: 24px;
+      fill: white;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>SERVICIOS CONTABLES EMPRESARIALES MENDOZA SC</h1>
+</header>
+
+<div class="container">
+  <h2>Sobre nosotros</h2>
+  <p>Somos un despacho contable con experiencia en asesoría fiscal, contabilidad empresarial y cumplimiento tributario. Ayudamos a empresas y negocios a tener finanzas claras y en orden.</p>
+
+  <h2>Servicios</h2>
+  <ul>
+    <li>Contabilidad general</li>
+    <li>Asesoría fiscal y planificación tributaria</li>
+    <li>Declaraciones mensuales y anuales</li>
+    <li>Maquila de nómina y cálculo de cuotas patronales</li>
+    <li>Conocimiento en todos los regímenes tributarios de personas físicas y morales</li>
+    <li>Conocimiento en REPSE para empresas que ofrecen servicios especializados</li>
+  </ul>
+
+  <h2>Contacto</h2>
+  <p>¿Te interesa alguno de nuestros servicios? Escríbenos o llámanos:</p>
+  <p><strong>Teléfono de oficina:</strong> 55 9343 5999</p>
+  <button class="whatsapp-button" onclick="window.location.href='https://wa.me/525549396102'">
+    <svg class="whatsapp-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+      <path d="M20.52 3.48A11.83 11.83 0 0012 0a11.87 11.87 0 00-11.87 11.87c0 2.1.55 4.15 1.6 5.97L0 24l6.3-1.65a11.84 11.84 0 005.7 1.5h.01c6.57 0 11.9-5.33 11.9-11.9a11.75 11.75 0 00-3.4-8.47zm-8.5 17.25h-.01a9.1 9.1 0 01-4.64-1.28l-.33-.2-3.73.98 1-3.63-.22-.37a9.08 9.08 0 01-1.4-4.75 9.15 9.15 0 0117.7-2.6 9.05 9.05 0 01-2.65 11.76 9.04 9.04 0 01-5.35 1.6zm5.6-7.75c-.3-.15-1.8-.88-2.08-.98-.28-.1-.48-.15-.68.15s-.78.98-.96 1.18-.35.22-.65.07a7.19 7.19 0 01-2.1-1.3c-.4-.38-.7-.85-.62-1.34.07-.43.5-1.05.75-1.4.26-.38.52-.43.78-.44.26-.01.52-.01.8.01.27.03.63.1.96.47.33.37 1.12 1.09 1.28 1.3.16.22.26.38.12.6-.14.22-.6.7-.85.94z"/>
+    </svg>
+    Ver WhatsApp
+  </button>
+</div>
+
+<footer>
+  © 2025 Servicios Contables Empresariales Mendoza SC
+</footer>
+
+</body>
+</html>
